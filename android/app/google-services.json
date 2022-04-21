@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "756149526263",
+    "project_id": "faceemotionlogin",
+    "storage_bucket": "faceemotionlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756149526263:android:88a2c5047eb4de9c3fbdf2",
+        "android_client_info": {
+          "package_name": "com.example.emotion_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756149526263-h1qa07oil1g2fd0ci44mdt38g2pktfnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIKac-FrZA0slQbDOj-DUp9NC8LUwrCuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756149526263-h1qa07oil1g2fd0ci44mdt38g2pktfnc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "756149526263-v5k7np0uk8iikv9j16g56gb9qmfboh2t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.assemble.faceRecognition"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

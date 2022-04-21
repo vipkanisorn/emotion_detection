@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">756149526263-h1qa07oil1g2fd0ci44mdt38g2pktfnc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">756149526263</string>
+    <string name="google_api_key" translatable="false">AIzaSyBIKac-FrZA0slQbDOj-DUp9NC8LUwrCuA</string>
+    <string name="google_app_id" translatable="false">1:756149526263:android:88a2c5047eb4de9c3fbdf2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBIKac-FrZA0slQbDOj-DUp9NC8LUwrCuA</string>
+    <string name="google_storage_bucket" translatable="false">faceemotionlogin.appspot.com</string>
+    <string name="project_id" translatable="false">faceemotionlogin</string>
+</resources>
